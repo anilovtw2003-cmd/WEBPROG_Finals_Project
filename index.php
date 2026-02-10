@@ -93,7 +93,7 @@ $csrfToken = generateCSRFToken();
                 </div>
             </div>
         </div>
-        <div class="header-logo"><img src="imagez/SoilCon_Logo_2_Cropped.png" alt="Soil Moisture Monitoring System - ESP32 Real-Time Sensor Data"></div>
+        <div class="header-logo"><img src="imagez/SoilCon_Logo_With_Subtitle_Cropped.png" alt="Soil Moisture Monitoring System - ESP32 Real-Time Sensor Data"></div>
         <div class="connection-status" id="connectionStatus">
             <span class="status-dot disconnected"></span>
             <span class="status-text">Checking ESP32...</span>
